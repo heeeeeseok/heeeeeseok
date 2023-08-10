@@ -11,7 +11,7 @@
 - [Riot API를 이용한 한 달간의 플레이시간 계산 앱](https://github.com/heeeeeseok/playTimeRank)
 - [spring boot를 활용한 게시판 API](https://github.com/heeeeeseok/myboard)
 - [2023 교내 소프트웨어 공모전](https://github.com/AlwaysCare)
-- [AWS의 RDS, S3를 활용 개인 프로젝트](https://github.com/heeeeeseok/term_project_spring_server)
+- [AWS의 EC2, RDS, S3 활용 개인 프로젝트](https://github.com/heeeeeseok/term_project_spring_server)
 
 ## 알고리즘
 - [프로그래머스](https://github.com/heeeeeseok/study/tree/main/Algorithm/Programmers)
