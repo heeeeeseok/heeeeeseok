@@ -4,7 +4,6 @@
 ## 현재 공부 중인 기술 스택
 - [spring boot](https://github.com/heeeeeseok/study/tree/main/backend/spring%20boot)
 - [nodejs](https://github.com/heeeeeseok/study/tree/main/backend/nodejs)
-- MySQL
 
 ## 진행 프로젝트
 - [2022 2학기 사용자인터페이스 및 실습 중고거래 앱 플랫폼](https://github.com/heeeeeseok/UserInterfaceAPP)
