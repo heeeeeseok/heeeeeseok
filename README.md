@@ -15,6 +15,4 @@ https://velog.io/@seoky1219/posts
 - [잇타 4기 - notion 템플릿 공유 판매 커뮤니티(우수상 수상)](https://github.com/E1I6-Notionable/Notionable-Backend)
 
 ## 알고리즘
-- [백준](https://github.com/heeeeeseok/study/tree/main/Algorithm/baekjoon)
-  <br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh5541)](https://solved.ac/hsh5541/)
