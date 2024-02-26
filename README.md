@@ -1,5 +1,7 @@
 ## Profile
 - 숭실대학교 컴퓨터학부 전공
+- [![velog](http://img.shields.io/badge/-velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@seoky1219/posts)
+
 
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -42,7 +44,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh5541)](https://solved.ac/hsh5541/)
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://velog.io/@seoky1219/posts)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:seokhee5541@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:skdlzl753@naver.com)
 
