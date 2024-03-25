@@ -1,5 +1,6 @@
 ## Profile
 - 숭실대학교 컴퓨터학부 전공
+- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://hseoky-devleop.tistory.com/)
 - [![velog](http://img.shields.io/badge/-velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@seoky1219/posts)
 
 
