@@ -21,6 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20actions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-2496ED.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
 
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=intellij%20IDEA&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
