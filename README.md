@@ -39,16 +39,11 @@
 
 
 ## Projects
-- [2022 2학기 사용자인터페이스 및 실습 중고거래 앱 플랫폼](https://github.com/heeeeeseok/UserInterfaceAPP)
-- [Riot API를 이용한 한 달간의 플레이시간 계산 앱](https://github.com/heeeeeseok/playTimeRank)
-- [2023 교내 소프트웨어 공모전](https://github.com/AlwaysCare)
-- [잇타 4기 - notion 템플릿 공유 판매 커뮤니티(우수상 수상)](https://github.com/heeeeeseok/Notionable-Backend)
 - [nanaland in Jeju - 제주도 방문 외국인 관광객을 위한 여행지 추천 앱](https://github.com/Travel-in-nanaland/Back-end)
   - 플레이스토어: https://play.google.com/store/apps/details?id=com.jeju.nanaland
   - 앱스토어: https://apps.apple.com/app/id6502518614
-
-## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh5541)](https://solved.ac/hsh5541/)
+- [잇타 4기 - notion 템플릿 공유 판매 커뮤니티(우수상 수상)](https://github.com/heeeeeseok/Notionable-Backend)
+- [Glee - (전공종합설계)외국인 유학생을 위한 학습 보조 앱](https://github.com/ALLO-2024/Glee_Server)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:seokhee5541@gmail.com)  seokhee5541@gmail.com
