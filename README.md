@@ -43,6 +43,9 @@
 - [Riot API를 이용한 한 달간의 플레이시간 계산 앱](https://github.com/heeeeeseok/playTimeRank)
 - [2023 교내 소프트웨어 공모전](https://github.com/AlwaysCare)
 - [잇타 4기 - notion 템플릿 공유 판매 커뮤니티(우수상 수상)](https://github.com/heeeeeseok/Notionable-Backend)
+- [nanaland in Jeju - 제주도 방문 외국인 관광객을 위한 여행지 추천 앱](https://github.com/Travel-in-nanaland/Back-end)
+  - 플레이스토어: https://play.google.com/store/apps/details?id=com.jeju.nanaland
+  - 앱스토어: https://apps.apple.com/app/id6502518614
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh5541)](https://solved.ac/hsh5541/)
